@@ -1,6 +1,7 @@
 # Hello World! My name is Benedict [ire-zepelli] 👋
 
-![](https://komarev.com/ghpvc/?ire-zepelli&color=dc143c)
+![](https://komarev.com/ghpvc/?username=ire-zepelli&color=grey)
+
 
 ## I'm just a boy who wants to explore the limitless wonders of programming.
 
