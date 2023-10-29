@@ -1,5 +1,7 @@
 # Hello World! My name is Benedict [ire-zepelli] 👋
 
+![](https://komarev.com/ghpvc/?ire-zepelli&color=dc143c)
+
 ## I'm just a boy who wants to explore the limitless wonders of programming.
 
 <img align=right width="300px" src="https://media.giphy.com/media/RQYpbheN62BOw/giphy.gif" alt="BB Recursion" title="Beavis and Butthead"/>
