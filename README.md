@@ -13,7 +13,7 @@
 -   🎓 I'm currently taking up a Bachelor of Science in Information Technology.
 -   👽 I enjoy problem solving.
 
-### ♦ Skills:
+### ♦ Tech:
 
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
