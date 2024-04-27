@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ire-zepelli&color=grey)
 
 
-## I'm just a boy who wants to explore the limitless wonders of programming.
+## I code for fun.
 
 <img align=right width="300px" src="https://media.giphy.com/media/RQYpbheN62BOw/giphy.gif" alt="BB Recursion" title="recursion"/>
 
