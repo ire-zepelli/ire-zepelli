@@ -43,11 +43,9 @@
 <h2 align="center">Backend Development</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /> <br>
 </div>
 <br/>
-<hr/>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
