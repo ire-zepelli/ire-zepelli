@@ -12,7 +12,7 @@
  
  🎓 I'm currently taking up a **Bachelor of Science in Information Technology**
  
- 🌱 I’m currently learning **C# and React**
+ 🌱 I’m currently learning **Next.js**
 
 👽 I enjoy **problem solving**
 
@@ -31,19 +31,19 @@
  <h2 align="center">Languages</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java" /><br>
 </div>
  
 <h2 align="center">Frontend Development</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,redux,figma" /><br>
 </div>
 
 <h2 align="center">Backend Development</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" /> <br>
 </div>
 <br/>
 <hr/>
