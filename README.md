@@ -12,7 +12,7 @@
  
  🎓 I'm currently taking up a **Bachelor of Science in Information Technology**
  
- 🌱 I’m currently learning **Next.js**
+ 🌱 I’m currently learning **PHP**
 
 👽 I enjoy **problem solving**
 
@@ -43,7 +43,7 @@
 <h2 align="center">Backend Development</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,express,mongodb,firebase,mysql" /> <br>
 </div>
 <br/>
 <hr/>
