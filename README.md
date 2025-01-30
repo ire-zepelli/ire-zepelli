@@ -31,7 +31,7 @@
  <h2 align="center">Languages</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java," /><br>
 </div>
  
 <h2 align="center">Frontend Development</h2>
