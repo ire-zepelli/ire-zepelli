@@ -12,7 +12,7 @@
  
  🎓 I'm currently taking up a **Bachelor of Science in Information Technology**
  
- 🌱 I’m currently learning **PHP**
+ 🌱 I’m currently learning **C#**
 
 👽 I enjoy **problem solving**
 
