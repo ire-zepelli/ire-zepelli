@@ -37,13 +37,13 @@
 <h2 align="center">Frontend Development</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,redux,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap,react,redux,figma" /><br>
 </div>
 
 <h2 align="center">Backend Development</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,express,mongodb,firebase,mysql" /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,express,mongodb,firebase,mysql,postgres" /> <br>
 </div>
 <br/>
 <hr/>
