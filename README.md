@@ -12,7 +12,7 @@
  
  🎓 I'm currently taking up a **Bachelor of Science in Information Technology**
  
- 🌱 I’m currently learning **Backend Engineering**
+ 🌱 I’m currently learning **Cybersecurity**
 
 👽 I enjoy **problem solving**
 
