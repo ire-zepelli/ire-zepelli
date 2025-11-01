@@ -8,3 +8,4 @@
 *hei hei i'm ire-.* :wave:
 - I'm a 3rd Year Information Technology student.
 - I love building cool web apps :>
+- 0.5x Engineer
